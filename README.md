@@ -29,7 +29,7 @@ ETH CRYPTOCURRENCY DISTRIBUTION PROJECT
 
 
 How to use:
-  1. Send from ETH wallet to the smart contract address [b]0xbd5b1ee23B193Bf1E8D41Adf67abDe9023726C93[/b]
+  1. Send from ETH wallet to the smart contract address 0xbd5b1ee23B193Bf1E8D41Adf67abDe9023726C93
      any amount from 0.01 ETH.
   2. Verify your transaction in the history of your application or etherscan.io, specifying the address
      of your wallet.
