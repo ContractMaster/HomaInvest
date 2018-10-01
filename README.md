@@ -9,13 +9,14 @@ ETH CRYPTOCURRENCY DISTRIBUTION PROJECT
 - KOR Telegram_chat: https://t.me/cryptohoma_chatkor
 - Email:             mailto:info@cryptohoma.com
 
-- GAIN PER 24 HOURS:
+GAIN PER 24 HOURS:
  - Contract balance  < 200 Ether: 3,25 %
-   -- Contract balance >= 200 Ether: 3.50 %
-   -- Contract balance >= 400 Ether: 3.75 %
-   -- Contract balance >= 600 Ether: 4.00 %
-   -- Contract balance >= 800 Ether: 4.25 %
-   -- Contract balance >= 1000 Ether: 4.50 %
+ - Contract balance >= 200 Ether: 3.50 %
+ - Contract balance >= 400 Ether: 3.75 %
+ - Contract balance >= 600 Ether: 4.00 %
+ - Contract balance >= 800 Ether: 4.25 %
+ - Contract balance >= 1000 Ether: 4.50 %
+
 - Life-long payments
 - The revolutionary reliability
 - Minimal contribution 0.01 eth
