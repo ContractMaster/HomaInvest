@@ -1,13 +1,13 @@
 # HomaInvest
 ETH CRYPTOCURRENCY DISTRIBUTION PROJECT
 
-Web              - https://invest.cryptohoma.com
-Twitter          - https://twitter.com/cryptohoma
-Telegram_channel - https://t.me/cryptohoma_channel
-EN  Telegram_chat: https://t.me/cryptohoma_chateng
-RU  Telegram_chat: https://t.me/cryptohoma_chat
-KOR Telegram_chat: https://t.me/cryptohoma_chatkor
-Email:             mailto:info(at sign)cryptohoma.com
+-Web              - https://invest.cryptohoma.com
+-Twitter          - https://twitter.com/cryptohoma
+-Telegram_channel - https://t.me/cryptohoma_channel
+-EN  Telegram_chat: https://t.me/cryptohoma_chateng
+-RU  Telegram_chat: https://t.me/cryptohoma_chat
+-KOR Telegram_chat: https://t.me/cryptohoma_chatkor
+-Email:             mailto:info@cryptohoma.com
 
 - GAIN PER 24 HOURS:
    -- Contract balance  < 200 Ether: 3,25 %
