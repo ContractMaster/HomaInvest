@@ -41,6 +41,4 @@ How to use:
  ---It is not allowed to transfer from exchanges, only from your personal ETH wallet, for which you
  have private keys.
 
- Contracts reviewed and approved by pros!
-
- Main contract - HomaInvest. Scroll down to find it.
+ Main contract - HomaInvest.
